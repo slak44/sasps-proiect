@@ -1,5 +1,7 @@
 # Proiect SASPS
 
+Folosirea design patterns pentru serializarea in format binar al unei reprezentari intermediare in cadrul unui compilator
+
 Commit relevant cu Flyweight: https://github.com/slak44/ckompiler/commit/68720980f5d4ceeed30933a4fa739796eefa41c4  
 Repository complet cod: https://github.com/slak44/ckompiler  
 [Date raw initiale](./src/initial.txt)  
